@@ -1,0 +1,10 @@
+C:\Veles Game\Project\Portfolio\Fitness\Fitness.CMD\bin\Debug\Fitness.CMD.exe.config
+C:\Veles Game\Project\Portfolio\Fitness\Fitness.CMD\bin\Debug\Fitness.CMD.exe
+C:\Veles Game\Project\Portfolio\Fitness\Fitness.CMD\bin\Debug\Fitness.CMD.pdb
+C:\Veles Game\Project\Portfolio\Fitness\Fitness.CMD\bin\Debug\Fitness.BL.dll
+C:\Veles Game\Project\Portfolio\Fitness\Fitness.CMD\bin\Debug\Fitness.BL.pdb
+C:\Veles Game\Project\Portfolio\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.AssemblyReference.cache
+C:\Veles Game\Project\Portfolio\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.CoreCompileInputs.cache
+C:\Veles Game\Project\Portfolio\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.CopyComplete
+C:\Veles Game\Project\Portfolio\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.exe
+C:\Veles Game\Project\Portfolio\Fitness\Fitness.CMD\obj\Debug\Fitness.CMD.pdb
